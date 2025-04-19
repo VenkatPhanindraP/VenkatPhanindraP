@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Venkat Phanindra Pasunooru
 
 🎯 Data Engineer | Data Analyst | Turning Data into Insights  
-📍 Based in the USA | Open to Remote/Hybrid Roles  
+📍 Based in the USA | Open to Work 
 
 ---
 
